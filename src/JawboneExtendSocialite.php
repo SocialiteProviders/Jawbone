@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Jawbone;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
